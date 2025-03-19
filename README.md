@@ -23,6 +23,6 @@ Feel free to fork this repository, submit pull requests, or suggest improvements
 
 # Contact 📞
 
-Reach out to elliecomer123@icloud.com for any feedback or suggestions.
+Feel free to reach out at elliecomer123@icloud.com for any suggestions or feedback.
 
 ** Created by Ellie Comer **
